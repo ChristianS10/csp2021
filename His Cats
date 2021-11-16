@@ -1,0 +1,18 @@
+<html>
+<title>My Cats</title>
+<body>
+<h1>Jasper & Shael</h1>
+
+<audio autoplay>
+<source src="meow.mp3">
+</audio>
+
+<video controls height="75%">
+<source src="IMG_3341.MOV">
+</video>
+
+<p>Here is a picture of my cats. They are very cute.</p>
+
+<a href="cats1.JPG"><img src="cats1.JPG" height="25%"></a>
+</body
+</html>
